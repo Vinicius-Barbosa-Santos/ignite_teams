@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Projeto" src="https://github.com/Vinicius-Barbosa-Santos/todo-react_native/blob/main/Cover.png">
+  <img alt="Projeto" src="https://github.com/Vinicius-Barbosa-Santos/ignite_teams/blob/master/github/Capa.png">
 </p>
 
 <br>
